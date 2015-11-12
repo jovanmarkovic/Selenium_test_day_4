@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16228" started-at="2015-11-12T13:53:18Z" finished-at="2015-11-12T13:53:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16228" started-at="2015-11-12T13:53:18Z" finished-at="2015-11-12T13:53:34Z">
+      <class name="Test.TestTooltip">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.TestTooltip@75176704]" name="setup" is-config="true" duration-ms="12924" started-at="2015-11-12T14:53:18Z" finished-at="2015-11-12T14:53:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_slide()[pri:0, instance:Test.TestTooltip@75176704]" name="test_slide" duration-ms="3287" started-at="2015-11-12T14:53:31Z" finished-at="2015-11-12T14:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_slide -->
+      </class> <!-- Test.TestTooltip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
